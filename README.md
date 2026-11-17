@@ -1,3 +1,5 @@
+<img width="1672" height="941" alt="Secure Life Hospistal - introduction image" src="https://github.com/user-attachments/assets/0cdefbfb-1682-4ad4-85db-f0f46d9fbbba" />
+
 ## SECURE-LIFE-HOSPITAL-ANALYTICS-DASHBOARD
 
 
