@@ -68,6 +68,8 @@ Which areas may need management attention?
 ## Visualization
 The dashboard has five KPI cards (No. of Patients, Total Bill Amt., Avg. Stay Length, Paid Amount and Avg. Insurance %) and five charts: admission trend over time, patients by department, patients by age group, payment status (%) and patients by gender. In the Excel file, the Department, Year and Diagnosis dropdown filters update every KPI and chart.
 
+<img width="1878" height="807" alt="Secure Life Hospital -  Analytical Dashboard" src="https://github.com/user-attachments/assets/5eb3ce23-3a2a-4eee-b0fd-d789368c0851" />
+
 
 ## Insights
 1. Patient visits
